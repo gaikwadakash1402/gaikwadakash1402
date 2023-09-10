@@ -7,6 +7,6 @@ Things I'm Good at ✨
 - Data Analysis : Exploratory Data Analysis, Ensemble Methods, Strong
                   Statistical Foundation, Model Development & Evaluation                           Metrics, Quantitative Methods, Predictive modelling, Data                        Collection, Data Preparation, and Data Modeling.
 - Libraries & Tools : NumPy, Pandas, SciPy, Matplotlib,Seaborn.
-- Frameworks : Scikit-Learn, Tnsorflow, PyTorch, Keras.
+- Frameworks : Scikit-Learn, Tensorflow, PyTorch, Keras.
 
 
