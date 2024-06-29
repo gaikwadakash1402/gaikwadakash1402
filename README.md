@@ -1,5 +1,5 @@
 ### Hi there 👋
-###🌱 Welcome 🌱 👋 I’m Akash Gaikwad. I am currently pursuing bachelor's in Artificial Intelligence and Data Science Engineering.
+###🌱 Welcome 🌱 👋 I’m Akash Gaikwad. I have completed my bachelor's in Artificial Intelligence and Data Science Engineering.
 
 Things I'm Good at ✨
 
