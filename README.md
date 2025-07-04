@@ -5,16 +5,16 @@
 #### Things I'm Good At ✨  
 
 - **Programming Languages**: Python, R, SQL (MySQL, PostgreSQL).  
-- **Data Science Expertise**: Data Visualization, Data Preprocessing, EDA, Data Cleaning, Supervised and Unsupervised Learning Algorithms, Artificial Neural Networks (ANN), Convolutional Neural Networks (CNN), Natural Language Processing (NLP), Generative AI (GenAI), and Large Language Models (LLMs).  
-- **Libraries & Tools**: NumPy, Pandas, SciPy, Matplotlib, Seaborn, Scikit-learn, TensorFlow, Keras, PyTorch, NLTK, SpaCy, Gensim, Transformers (Hugging Face), and BeautifulSoup.  
-- **Frameworks**: TensorFlow, Keras, Flask, FastAPI, Streamlit, LangChain 
+- **Data Science Expertise**: Data Visualization, Data Preprocessing, EDA, Data Cleaning, Supervised and Unsupervised Learning Algorithms, Artificial Neural Networks (ANN), Convolutional Neural Networks (CNN), Natural Language Processing (NLP), Generative AI (GenAI), and Large Language Models (LLMs), Computer Vision.  
+- **Libraries & Tools**: NumPy, Pandas, SciPy, Matplotlib, Seaborn, Scikit-learn, Keras, NLTK, SpaCy, Gensim, Transformers (Hugging Face),OpenCV, Mediapipe and BeautifulSoup.  
+- **Frameworks**: TensorFlow, Keras, Flask, FastAPI, Streamlit, LangChain, PyTorch.
 - **Databases**: MySQL, MongoDB.  
 
 #
 
 #### Work Experience 💼  
 - **Prompt-Response Writer** at Telus International Pvt Ltd.  
-  - Contributing to the development of multimodal datasets for Visual Language Models.  
+  - Contributed to the development of multimodal datasets for Visual Language Models.  
 - **Data Science and AI Trainee** at UV Technocrats Pvt. Ltd.  
   - Advanced proficiency in Python, Machine Learning, and data visualization tools.  
 
