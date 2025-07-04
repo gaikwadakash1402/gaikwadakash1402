@@ -6,8 +6,8 @@
 
 - **Programming Languages**: Python, R, SQL (MySQL, PostgreSQL).  
 - **Data Science Expertise**: Data Visualization, Data Preprocessing, EDA, Data Cleaning, Supervised and Unsupervised Learning Algorithms, Artificial Neural Networks (ANN), Convolutional Neural Networks (CNN), Natural Language Processing (NLP), Generative AI (GenAI), and Large Language Models (LLMs), Computer Vision.  
-- **Libraries & Tools**: NumPy, Pandas, SciPy, Matplotlib, Seaborn, Scikit-learn, Keras, NLTK, SpaCy, Gensim, Transformers (Hugging Face),OpenCV, Mediapipe and BeautifulSoup.  
-- **Frameworks**: TensorFlow, Keras, Flask, FastAPI, Streamlit, LangChain, PyTorch.
+- **Libraries & Tools**: NumPy, Pandas, SciPy, Matplotlib, Seaborn, Scikit-learn, Keras, NLTK, SpaCy, Gensim, Transformers (Hugging Face),OpenCV and BeautifulSoup.  
+- **Frameworks**: TensorFlow, Keras, Flask, FastAPI, Streamlit, LangChain, PyTorch, Mediapipe.
 - **Databases**: MySQL, MongoDB.  
 
 #
